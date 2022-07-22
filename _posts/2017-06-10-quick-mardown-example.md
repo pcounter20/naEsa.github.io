@@ -3,10 +3,11 @@ layout: post
 title: Quick markdown example
 subtitle: This is a quick markdown example
 categories: markdown
-tags: [example]
+tags: [http]
 ---
 
-Paragraphs are separated by a blank line.
+핸드폰으로 메일을 보내거나 어떤 프로그램을 사용해서 다른 사용자에게 임의의 정보를 보낼 때
+어떻게 동작하는 걸까
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
@@ -162,3 +163,5 @@ $$I = \int \rho R^{2} dV$$
 
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+
+참조 <a href="https://www.inflearn.com/course/http-웹-네트워크 target="_blank"> 김영한님 강의 </a>
