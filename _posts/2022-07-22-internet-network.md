@@ -25,3 +25,9 @@ IP(Internet Protocol) 이라 한다.
 
 ---
 
+![img02](https://github.com/pcounter20/naEsa.github.io/blob/main/_posts/image/http_organize/img_02.png?raw=true)
+
+---
+
+> 택배도 주소가 잘못되었거나 혹은 이사를 갔거나 택배사에 문제가 생겨 제대로 물품이 배송되지 못할때가 있다. 네트워크는?
+
