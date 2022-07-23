@@ -2,7 +2,7 @@
 layout: post
 title: internet-network 의 동작
 subtitle: internet-network 의 범용적 동작
-categories: markdown
+categories: http
 tags: [http]
 ---
 #### 네트워크에서의 전송

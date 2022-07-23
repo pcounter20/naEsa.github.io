@@ -2,7 +2,7 @@
 layout: post
 title: URI와 웹브라우저의 요청 흐름
 subtitle: URI와 웹브라우저의 요청 흐름
-categories: markdown
+categories: http
 tags: [http]
 ---
 
@@ -44,9 +44,9 @@ URL의 구성요소를 정리했다.
 
 ![img04](https://github.com/pcounter20/naEsa.github.io/blob/main/_posts/image/uri/img_04.png?raw=true)
 
-4. 다른 계층에서 일련의 과정을 통해 해석하고 응답메시지를 작성한다. (여기에는 렌더링 할 데이터(민트색)와 서버 동작을 나타내는 HTTP 상태 코드(녹색) 작성 타입(갈색) 등을 포함)
+4. 다른 계층에서 일련의 과정을 통해 해석하고 응답메시지를 작성한다. (여기에는 **렌더링 할 데이터**(민트색)와 서버 동작을 나타내는 **HTTP 상태 코드**(녹색) **작성 타입**(갈색) 등을 포함)
 
-5. 웹 브라우저는 응답 패킷의 http 응답메시지를 해석해 민트 부분을 렌더링한다.
+5. 웹 브라우저는 응답 패킷의 http 응답메시지를 해석해 렌더링한다.
 
 
 대개의 웹브라우저 요청 응답 흐름은 위와 같다.
